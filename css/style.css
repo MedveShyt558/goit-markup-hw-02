@@ -120,7 +120,7 @@ a {
         text-transform: capitalize;
 }
 
-.logo-f {  
+.logo-footer {  
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
@@ -130,13 +130,17 @@ a {
         color: #4d5ae5;
 }
 
-.logo-text-footer {
+.logo-footer-span {
     color: #f4f4fd;
 }
 
-.text-footer {
+.footer-p {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+}
+
+.footer {
+    background-color: #2e2f42;
 }
