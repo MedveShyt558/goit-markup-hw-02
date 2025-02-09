@@ -107,9 +107,12 @@ a {
 }
 
 .command {
-    background-color: #FFFFFF;
+    background-color: #f4f4fd;
 }
 
+.command-link {
+    background-color: #fff;
+}
 
 
 .title-two {
